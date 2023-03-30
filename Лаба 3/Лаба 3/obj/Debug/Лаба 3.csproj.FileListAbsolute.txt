@@ -1,0 +1,17 @@
+C:\Users\WorkStation\source\repos\Лаба 3\Лаба 3\bin\Debug\Лаба 3.exe.config
+C:\Users\WorkStation\source\repos\Лаба 3\Лаба 3\bin\Debug\Лаба 3.exe
+C:\Users\WorkStation\source\repos\Лаба 3\Лаба 3\bin\Debug\Лаба 3.pdb
+C:\Users\WorkStation\source\repos\Лаба 3\Лаба 3\obj\Debug\Лаба 3.csproj.AssemblyReference.cache
+C:\Users\WorkStation\source\repos\Лаба 3\Лаба 3\obj\Debug\Лаба 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\WorkStation\source\repos\Лаба 3\Лаба 3\obj\Debug\Лаба_3.Form1.resources
+C:\Users\WorkStation\source\repos\Лаба 3\Лаба 3\obj\Debug\Лаба_3.Properties.Resources.resources
+C:\Users\WorkStation\source\repos\Лаба 3\Лаба 3\obj\Debug\Лаба 3.csproj.GenerateResource.cache
+C:\Users\WorkStation\source\repos\Лаба 3\Лаба 3\obj\Debug\Лаба 3.csproj.CoreCompileInputs.cache
+C:\Users\WorkStation\source\repos\Лаба 3\Лаба 3\obj\Debug\Лаба 3.exe
+C:\Users\WorkStation\source\repos\Лаба 3\Лаба 3\obj\Debug\Лаба 3.pdb
+E:\Лаба 3\Лаба 3\obj\Debug\Лаба 3.csproj.AssemblyReference.cache
+E:\Лаба 3\Лаба 3\obj\Debug\Лаба 3.csproj.SuggestedBindingRedirects.cache
+E:\Лаба 3\Лаба 3\obj\Debug\Лаба_3.Form1.resources
+E:\Лаба 3\Лаба 3\obj\Debug\Лаба_3.Properties.Resources.resources
+E:\Лаба 3\Лаба 3\obj\Debug\Лаба 3.csproj.GenerateResource.cache
+E:\Лаба 3\Лаба 3\obj\Debug\Лаба 3.csproj.CoreCompileInputs.cache
