@@ -1,0 +1,11 @@
+C:\Users\WorkStation\source\repos\лаб 2\лаб 2\bin\Debug\лаб 2.exe.config
+C:\Users\WorkStation\source\repos\лаб 2\лаб 2\bin\Debug\лаб 2.exe
+C:\Users\WorkStation\source\repos\лаб 2\лаб 2\bin\Debug\лаб 2.pdb
+C:\Users\WorkStation\source\repos\лаб 2\лаб 2\obj\Debug\лаб 2.csproj.AssemblyReference.cache
+C:\Users\WorkStation\source\repos\лаб 2\лаб 2\obj\Debug\лаб 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\WorkStation\source\repos\лаб 2\лаб 2\obj\Debug\лаб_2.Form1.resources
+C:\Users\WorkStation\source\repos\лаб 2\лаб 2\obj\Debug\лаб_2.Properties.Resources.resources
+C:\Users\WorkStation\source\repos\лаб 2\лаб 2\obj\Debug\лаб 2.csproj.GenerateResource.cache
+C:\Users\WorkStation\source\repos\лаб 2\лаб 2\obj\Debug\лаб 2.csproj.CoreCompileInputs.cache
+C:\Users\WorkStation\source\repos\лаб 2\лаб 2\obj\Debug\лаб 2.exe
+C:\Users\WorkStation\source\repos\лаб 2\лаб 2\obj\Debug\лаб 2.pdb
